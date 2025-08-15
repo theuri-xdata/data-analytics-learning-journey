@@ -1,4 +1,4 @@
-[Theuri | Data Analytics Banner](A_digital_graphic_design_banner_for_"Theuri_|_Data.png)
+[Theuri | Data Analytics Banner]([_digital_graphic_design_banner_for_"Theuri_|_Data.png](https://github.com/theuri-xdata/data-analytics-learning-journey/blob/2d48c0d1799d25f0c7b53c85cb5aa8c70a5762c3/Image%20analytics.png))
 
 # 🧠 Data Analytics Learning Journey
 
