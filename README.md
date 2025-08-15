@@ -28,22 +28,15 @@ Each folder represents a key concept or tool I've explored, with hands-on practi
 
 ## 🎓 Certifications & Learning Achievements
 
-IBM SkillsBuild(https://img.shields.io/badge/IBM-SkillsBuild-blue?logo=ibm)](https://skillsbuild.org/)  
+IBM SkillsBuild  
 Introduction to Data Concepts – IBM SkillsBuild  
 Explored the foundations of data, including Excel, SQL, and Tableau for analytics workflows.
 
-Cisco Networking Academy](https://img.shields.io/badge/Cisco-Networking%20Academy-blue?logo=cisco)](https://www.netacad.com/)  
+Cisco Networking Academy  
 Data Analytics Essentials – Cisco Networking Academy  
 Gained practical experience in Excel, SQL, and Tableau with real-world datasets and analytics projects.
 
-## 🛠 Skills & Tools
-
-[Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-[Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-[NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
-[Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)  
-[SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)  
-[Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
+  
 
 ## 📦 Datasets
 
