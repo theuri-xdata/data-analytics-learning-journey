@@ -7,8 +7,7 @@ Each folder represents a key concept or tool I've explored, with hands-on practi
 ## 📚 Topics Covered
 - Python Basics  
 - NumPy for Numerical Computation  
-- Pandas for Data Analysis  
-- Data Visualization (Matplotlib & Seaborn)  
+ - Data Visualization  
 - Data Cleaning Techniques  
 - Exploratory Data Analysis (EDA)  
 - Ongoing Mini Projects  
